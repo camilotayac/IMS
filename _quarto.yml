@@ -1,0 +1,87 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Proyecto Educativo Institucional"
+  subtitle: "Resignificación PEI — Versión 3-2026"
+  author: "Institución Educativa Mariscal Sucre"
+  date: "Junio 2026"
+  cover-image: images/escudo.png
+  favicon: images/logo.png
+  repo-url: https://github.com/tayac/colegio
+  repo-branch: main
+  repo-actions: [edit]
+  page-navigation: true
+  search: true
+  sidebar:
+    collapse: true
+
+  chapters:
+    - index.qmd
+
+    - part: "Fundamentos Estratégicos"
+      chapters:
+        - 01-fundamentos/presentacion.qmd
+        - 01-fundamentos/indice-inclusion.qmd
+        - 01-fundamentos/marco-legal.qmd
+        - 01-fundamentos/informacion-general.qmd
+        - 01-fundamentos/introduccion.qmd
+        - 01-fundamentos/justificacion.qmd
+        - 01-fundamentos/pmi.qmd
+        - 01-fundamentos/glocalizacion.qmd
+
+    - part: "Gestión Directiva"
+      chapters:
+        - 02-directiva/identidad.qmd
+        - 02-directiva/gestion-directiva.qmd
+
+    - part: "Gestión Académica"
+      chapters:
+        - 03-academica/horizonte-academico.qmd
+        - 03-academica/escuela-activa.qmd
+        - 03-academica/modelo-educativo.qmd
+        - 03-academica/diseno-curricular.qmd
+        - 03-academica/componentes-pedagogicos.qmd
+        - 03-academica/practicas-flexibles.qmd
+        - 03-academica/siee.qmd
+
+    - part: "Gestión Administrativa y Financiera"
+      chapters:
+        - 04-administrativa/horizonte-admin.qmd
+        - 04-administrativa/pger.qmd
+        - 04-administrativa/talento-humano.qmd
+        - 04-administrativa/recursos-tecnicos.qmd
+        - 04-administrativa/servicios-complementarios.qmd
+
+    - part: "Gestión Comunitaria"
+      chapters:
+        - 05-comunitaria/gestion-comunitaria.qmd
+        - 05-comunitaria/vida-estudiantil.qmd
+
+    - references.qmd
+
+  appendices:
+    - apendices/equipo-calidad.qmd
+
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - litera
+      - custom.scss
+    cover-image: images/escudo.png
+    toc: true
+    toc-depth: 3
+    number-depth: 0
+  pdf:
+    documentclass: scrreport
+    cover-image: images/escudo.png
+    toc: true
+    toc-depth: 3
+    number-depth: 0
+  epub:
+    cover-image: images/escudo.png
+    toc: true

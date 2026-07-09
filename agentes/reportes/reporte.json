@@ -1,0 +1,2463 @@
+{
+  "fecha": "2026-07-06T19:15:24.151786",
+  "resumen": {
+    "total_hallazgos": 243,
+    "fixes_aplicados": 0,
+    "por_severidad": {
+      "HIGH": 26,
+      "LOW": 198,
+      "MEDIUM": 19
+    },
+    "por_agente": {
+      "02_tablas": 5,
+      "03_parrafos": 28,
+      "04_completitud": 6,
+      "07_listas": 181,
+      "08_consistencia": 17,
+      "09_referencias": 6
+    }
+  },
+  "tiempos_ejecucion": {
+    "04_completitud": 0.05041313171386719,
+    "02_tablas": 0.004308938980102539,
+    "01_estructura": 0.0028290748596191406,
+    "03_parrafos": 0.002473115921020508,
+    "05_duplicados": 0.0769200325012207,
+    "07_listas": 0.003551959991455078,
+    "08_consistencia": 0.01003122329711914,
+    "09_referencias": 0.007433891296386719,
+    "06_metadatos": 0.017262935638427734
+  },
+  "hallazgos": [
+    {
+      "archivo": "DOCX vs LIBRO",
+      "linea": 0,
+      "tipo": "CONTENIDO_NO_ENCONTRADO",
+      "severidad": "HIGH",
+      "detalle": "14 párrafos del DOCX no encontrados en el libro",
+      "sugerencia": "Revisar si falta contenido al extraer del DOCX",
+      "agente": "04_completitud",
+      "autofix": false
+    },
+    {
+      "archivo": "DOCX",
+      "linea": 28,
+      "tipo": "FRAGMENTO_PERDIDO",
+      "severidad": "MEDIUM",
+      "detalle": "Texto no encontrado en libro: \"Esta matriz integra la realidad operativa actual de las tres sedes fusionadas, incluyendo la proyecc\"",
+      "sugerencia": "",
+      "agente": "04_completitud",
+      "autofix": false
+    },
+    {
+      "archivo": "DOCX",
+      "linea": 150,
+      "tipo": "FRAGMENTO_PERDIDO",
+      "severidad": "MEDIUM",
+      "detalle": "Texto no encontrado en libro: \"Objetivo: Consolidar la inclusión como eje transversal del PEI.\"",
+      "sugerencia": "",
+      "agente": "04_completitud",
+      "autofix": false
+    },
+    {
+      "archivo": "DOCX",
+      "linea": 151,
+      "tipo": "FRAGMENTO_PERDIDO",
+      "severidad": "MEDIUM",
+      "detalle": "Texto no encontrado en libro: \"Acción de mejora: Fortalecer políticas institucionales de inclusión con seguimiento periódico.\"",
+      "sugerencia": "",
+      "agente": "04_completitud",
+      "autofix": false
+    },
+    {
+      "archivo": "DOCX",
+      "linea": 160,
+      "tipo": "FRAGMENTO_PERDIDO",
+      "severidad": "MEDIUM",
+      "detalle": "Texto no encontrado en libro: \"Acciones de mejora: Capacitar docentes en DUA, evaluación flexible y ajustes razonables.\"",
+      "sugerencia": "",
+      "agente": "04_completitud",
+      "autofix": false
+    },
+    {
+      "archivo": "DOCX",
+      "linea": 172,
+      "tipo": "FRAGMENTO_PERDIDO",
+      "severidad": "MEDIUM",
+      "detalle": "Texto no encontrado en libro: \"Objetivos: Monitorear\"",
+      "sugerencia": "",
+      "agente": "04_completitud",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/indice-inclusion.qmd",
+      "linea": 7,
+      "tipo": "TABLA_PLANA",
+      "severidad": "HIGH",
+      "detalle": "Posible tabla plana (columnas separadas como texto): \"## Tabla 3. Resultado Histórico índice de Inclusión IEMS\"",
+      "sugerencia": "Convertir a | col1 | col2 | ... | formato Markdown",
+      "agente": "02_tablas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/indice-inclusion.qmd",
+      "linea": 156,
+      "tipo": "TABLA_PLANA",
+      "severidad": "HIGH",
+      "detalle": "Posible tabla plana (columnas separadas como texto): \"## Clasificación discapacidad según SIMAT 2026 IEMS (TABLA 4)\"",
+      "sugerencia": "Convertir a | col1 | col2 | ... | formato Markdown",
+      "agente": "02_tablas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/indice-inclusion.qmd",
+      "linea": 208,
+      "tipo": "TABLA_PLANA",
+      "severidad": "HIGH",
+      "detalle": "Posible tabla plana (columnas separadas como texto): \"## Tabla 5. promoción estudiantes caracterizados 202\"",
+      "sugerencia": "Convertir a | col1 | col2 | ... | formato Markdown",
+      "agente": "02_tablas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 15,
+      "tipo": "TABLA_PLANA",
+      "severidad": "HIGH",
+      "detalle": "Posible tabla plana (columnas separadas como texto): \"## Plan de estudios de Preescolar, Básica Primaria, Secundaria y Media (TABLA 27\"",
+      "sugerencia": "Convertir a | col1 | col2 | ... | formato Markdown",
+      "agente": "02_tablas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/servicios-complementarios.qmd",
+      "linea": 1,
+      "tipo": "TABLA_PLANA",
+      "severidad": "HIGH",
+      "detalle": "Posible tabla plana (columnas separadas como texto): \"# SERVICIOS COMPLEMENTARIOS (TABLA 40)\"",
+      "sugerencia": "Convertir a | col1 | col2 | ... | formato Markdown",
+      "agente": "02_tablas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/glocalizacion.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 842 caracteres (2 oraciones)",
+      "sugerencia": "Dividir en 2 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/indice-inclusion.qmd",
+      "linea": 9,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 5339 caracteres (10 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/informacion-general.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 3971 caracteres (6 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/introduccion.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 966 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/justificacion.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 917 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "MEDIUM",
+      "detalle": "Párrafo de 627 caracteres (2 oraciones)",
+      "sugerencia": "Dividir en 2 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 7,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "MEDIUM",
+      "detalle": "Párrafo de 516 caracteres (2 oraciones)",
+      "sugerencia": "Dividir en 2 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 157,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "MEDIUM",
+      "detalle": "Párrafo de 515 caracteres (2 oraciones)",
+      "sugerencia": "Dividir en 2 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 161,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1087 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/identidad.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 985 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/identidad.qmd",
+      "linea": 5,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1043 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/escuela-activa.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 995 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1029 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 22,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "MEDIUM",
+      "detalle": "Párrafo de 517 caracteres (2 oraciones)",
+      "sugerencia": "Dividir en 2 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 57,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "MEDIUM",
+      "detalle": "Párrafo de 722 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "MEDIUM",
+      "detalle": "Párrafo de 506 caracteres (2 oraciones)",
+      "sugerencia": "Dividir en 2 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 20,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "MEDIUM",
+      "detalle": "Párrafo de 545 caracteres (2 oraciones)",
+      "sugerencia": "Dividir en 2 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 5,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1154 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 9,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1136 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 13,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1037 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 5,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1061 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 37,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1310 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 41,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1017 caracteres (2 oraciones)",
+      "sugerencia": "Dividir en 2 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 45,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1265 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/pger.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1288 caracteres (3 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/servicios-complementarios.qmd",
+      "linea": 3,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1678 caracteres (4 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 9,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "MEDIUM",
+      "detalle": "Párrafo de 533 caracteres (2 oraciones)",
+      "sugerencia": "Dividir en 2 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../index.qmd",
+      "linea": 30,
+      "tipo": "PARRAFO_LARGO",
+      "severidad": "HIGH",
+      "detalle": "Párrafo de 1240 caracteres (5 oraciones)",
+      "sugerencia": "Dividir en 3 párrafos separados por tema",
+      "agente": "03_parrafos",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/glocalizacion.qmd",
+      "linea": 9,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/glocalizacion.qmd",
+      "linea": 10,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/glocalizacion.qmd",
+      "linea": 11,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/glocalizacion.qmd",
+      "linea": 12,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/pmi.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/pmi.qmd",
+      "linea": 14,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/pmi.qmd",
+      "linea": 15,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/pmi.qmd",
+      "linea": 16,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 9,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 10,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 11,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 12,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 14,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 20,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 21,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 22,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 23,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 24,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 25,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 26,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 27,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 28,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 29,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 14,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 15,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 16,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 26,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 27,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 28,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 29,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 30,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 38,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 39,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 40,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 41,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 42,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 43,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 44,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 45,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 46,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 47,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 48,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 49,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 50,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 51,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 52,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 53,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 54,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 55,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 67,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 68,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 69,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 70,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 94,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 95,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 96,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 97,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 98,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/gestion-directiva.qmd",
+      "linea": 99,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/identidad.qmd",
+      "linea": 11,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/identidad.qmd",
+      "linea": 12,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../02-directiva/identidad.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/componentes-pedagogicos.qmd",
+      "linea": 7,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/componentes-pedagogicos.qmd",
+      "linea": 8,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/componentes-pedagogicos.qmd",
+      "linea": 9,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/componentes-pedagogicos.qmd",
+      "linea": 10,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 9,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 10,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 11,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 12,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/escuela-activa.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/escuela-activa.qmd",
+      "linea": 14,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/escuela-activa.qmd",
+      "linea": 15,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/escuela-activa.qmd",
+      "linea": 16,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 11,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 12,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 14,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 15,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 16,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 17,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 18,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 19,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 20,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 28,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 29,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 30,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 46,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 47,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 48,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 49,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 50,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 51,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 52,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 53,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 54,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 55,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 63,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 64,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 65,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 66,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 67,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 68,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 69,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 70,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 9,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 10,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 11,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 12,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 14,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 15,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 16,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 17,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 18,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 26,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 27,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 28,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 29,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 30,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 31,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 32,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 33,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/modelo-educativo.qmd",
+      "linea": 34,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 19,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 20,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 21,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 22,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 23,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 24,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 30,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 31,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 32,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 33,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 39,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 40,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 41,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 42,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 43,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 44,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 45,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 46,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/practicas-flexibles.qmd",
+      "linea": 47,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/siee.qmd",
+      "linea": 11,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/siee.qmd",
+      "linea": 12,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/siee.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/siee.qmd",
+      "linea": 14,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/siee.qmd",
+      "linea": 15,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/siee.qmd",
+      "linea": 16,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/siee.qmd",
+      "linea": 17,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/siee.qmd",
+      "linea": 18,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 11,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 12,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 13,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 14,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 15,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 16,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 17,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 18,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 19,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 20,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 51,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 52,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/horizonte-admin.qmd",
+      "linea": 53,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/talento-humano.qmd",
+      "linea": 25,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/talento-humano.qmd",
+      "linea": 26,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../04-administrativa/talento-humano.qmd",
+      "linea": 27,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 15,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 16,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 17,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 18,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 19,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 33,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 34,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 35,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 36,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 37,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../05-comunitaria/gestion-comunitaria.qmd",
+      "linea": 38,
+      "tipo": "VIÑETAS_INLINE",
+      "severidad": "LOW",
+      "detalle": "Múltiples • en una línea - deben ser items separados",
+      "sugerencia": "Dividir en líneas separadas con \"- \" cada una",
+      "agente": "07_listas",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/glocalizacion.qmd",
+      "linea": 10,
+      "tipo": "TERMINO_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Primera aparición de \"EAU\" sin énfasis",
+      "sugerencia": "Usar *EAU* en la primera aparición",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/indice-inclusion.qmd",
+      "linea": 64,
+      "tipo": "TERMINO_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Primera aparición de \"DUA\" sin énfasis",
+      "sugerencia": "Usar *DUA* en la primera aparición",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/indice-inclusion.qmd",
+      "linea": 225,
+      "tipo": "TERMINO_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Primera aparición de \"PIAR\" sin énfasis",
+      "sugerencia": "Usar *PIAR* en la primera aparición",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 10,
+      "tipo": "TERMINO_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Primera aparición de \"STEM\" sin énfasis",
+      "sugerencia": "Usar *STEM* en la primera aparición",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 325,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 325,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 325,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 326,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 326,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 326,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 327,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 327,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 327,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 328,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 329,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 329,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/diseno-curricular.qmd",
+      "linea": 329,
+      "tipo": "CITA_SIN_FORMATO",
+      "severidad": "LOW",
+      "detalle": "Texto entre comillas sin formato de cita",
+      "sugerencia": "Usar > blockquote para citas textuales o *cursiva*",
+      "agente": "08_consistencia",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/indice-inclusion.qmd",
+      "linea": 7,
+      "tipo": "REF_PLANA",
+      "severidad": "MEDIUM",
+      "detalle": "Referencia plana a \"Tabla 3.\" sin crossref Quarto",
+      "sugerencia": "Usar @tbl-xxx o @fig-xxx en lugar de texto plano",
+      "agente": "09_referencias",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/indice-inclusion.qmd",
+      "linea": 208,
+      "tipo": "REF_PLANA",
+      "severidad": "MEDIUM",
+      "detalle": "Referencia plana a \"Tabla 5.\" sin crossref Quarto",
+      "sugerencia": "Usar @tbl-xxx o @fig-xxx en lugar de texto plano",
+      "agente": "09_referencias",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/marco-legal.qmd",
+      "linea": 3,
+      "tipo": "REF_PLANA",
+      "severidad": "MEDIUM",
+      "detalle": "Referencia plana a \"Tabla 6\" sin crossref Quarto",
+      "sugerencia": "Usar @tbl-xxx o @fig-xxx en lugar de texto plano",
+      "agente": "09_referencias",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 5,
+      "tipo": "REF_PLANA",
+      "severidad": "MEDIUM",
+      "detalle": "Referencia plana a \"Tabla 1\" sin crossref Quarto",
+      "sugerencia": "Usar @tbl-xxx o @fig-xxx en lugar de texto plano",
+      "agente": "09_referencias",
+      "autofix": false
+    },
+    {
+      "archivo": "../01-fundamentos/presentacion.qmd",
+      "linea": 16,
+      "tipo": "REF_PLANA",
+      "severidad": "MEDIUM",
+      "detalle": "Referencia plana a \"tabla 2\" sin crossref Quarto",
+      "sugerencia": "Usar @tbl-xxx o @fig-xxx en lugar de texto plano",
+      "agente": "09_referencias",
+      "autofix": false
+    },
+    {
+      "archivo": "../03-academica/horizonte-academico.qmd",
+      "linea": 24,
+      "tipo": "REF_PLANA",
+      "severidad": "MEDIUM",
+      "detalle": "Referencia plana a \"tabla 20\" sin crossref Quarto",
+      "sugerencia": "Usar @tbl-xxx o @fig-xxx en lugar de texto plano",
+      "agente": "09_referencias",
+      "autofix": false
+    }
+  ]
+}
