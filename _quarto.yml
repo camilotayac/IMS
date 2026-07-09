@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: _book
+  resources:
+    - original/PEI-IEMS-V3-2026.docx
 
 book:
   title: "Proyecto Educativo Institucional"
