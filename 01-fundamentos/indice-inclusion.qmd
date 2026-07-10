@@ -15,7 +15,7 @@ En la Institución Educativa Mariscal Sucre, este proceso de seguimiento ha most
 | Gestión administrativa | 2,84 | 3,28 | 3,27 | Mantiene resultados altos estables. Se evidencia fortalecimiento en organización institucional, apoyo a procesos inclusivos y mejoramiento recursos y procedimientos administrativos. Sin embargo, el leve descenso frente a 2019 puede sugerir necesidad de revisar sostenibilidad, asignación de recursos y mecanismos de seguimiento. | Objetivos: Monitorear avances y tomar decisiones basadas en evidencia. Reducir barreras para el aprendizaje y la participación. Acciones de mejora: Diseñar sistema de seguimiento a indicadores de inclusión. Fortalecer accesibilidad física, tecnológica y comunicativa. |
 | Gestión comunitaria | 2,61 | 3,03 | 3,21 | Registra uno de los crecimientos más importantes. Refleja mayor participación de familias, articulación con la comunidad y fortalecimiento de redes de apoyo. No obstante, aún existen oportunidades para profundizar procesos de participación y corresponsabilidad comunitaria. | Objetivos: Fortalecer corresponsabilidad y cultura inclusiva. Mejorar atención integral a estudiantes. Acciones de mejora: Incrementar espacios de participación familiar y comunitaria. Crear redes de apoyo interinstitucional. |
 | **Total** | 2,71 | 3,17 | 3,27 | Los resultados del Índice de Inclusión evidencian una evolución positiva y sostenida de la institución entre 2015 y 2024. El puntaje global pasó de 2,71 en 2015 a 3,27 en 2024, lo que refleja avances importantes en la consolidación de prácticas inclusivas en las diferentes áreas de gestión institucional. La progresión muestra tres tendencias relevantes: Mejoramiento significativo entre 2015 y 2019, indicando procesos de transformación institucional iniciales efectivas. Continuidad del crecimiento entre 2019 y 2024, aunque con un ritmo más moderado. Mayor equilibrio entre las áreas de gestión, lo que sugiere una cultura institucional más articulada alrededor de la inclusión. | |
-
+: Resultado Histórico Índice de Inclusión IEMS {.responsive}
 
 ---
 
@@ -31,7 +31,7 @@ En la Institución Educativa Mariscal Sucre, este proceso de seguimiento ha most
 | PSICOSOCIAL MENTAL | 29 |
 | FISICA- MOVILIDADVISUAL BAJA VISION IRREVERSIBLE | 2 |
 | TOTAL | 151 |
-
+: Clasificación Discapacidad según SIMAT 2026 IEMS {.responsive}
 
 ---
 
@@ -174,4 +174,5 @@ En la Institución Educativa Mariscal Sucre, este proceso de seguimiento ha most
 | ZULUAGA | BUITRAGO | BRAYAN | JACOBO | DISCAPACIDAD INTELECTUAL | X | X | X |
 | ZULUAGA | GOMEZ | HELENA |  | DISCAPACIDAD PSICOSOCIAL (MENTAL) | X | X | X |
 | CARDONA | GALINDO | SANDRA | VIVIANA | DISCAPACIDAD MULTIPLE | X | X | X |
+: Promoción Estudiantes Caracterizados 2025 {.responsive}
 

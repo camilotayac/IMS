@@ -16,7 +16,7 @@ book:
   repo-actions: [edit]
   page-navigation: true
   search: true
-  downloads: [pdf, epub, docx]
+  downloads: [pdf, epub]
   sidebar:
     collapse: true
 
@@ -82,6 +82,7 @@ format:
   pdf:
     documentclass: scrreport
     cover-image: images/escudo.png
+    include-before-body: _portada.tex
     toc: true
     toc-depth: 3
     number-depth: 0
