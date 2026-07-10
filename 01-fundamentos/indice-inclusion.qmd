@@ -4,10 +4,6 @@ El Índice de Inclusión es una herramienta de autoevaluación que ayuda a las e
 
 En la Institución Educativa Mariscal Sucre, este proceso de seguimiento ha mostrado una evolución positiva constante, pasando de una calificación de 2,53 en 2009 a 3,27 en la actualidad. Con base en estos avances, la institución formuló su plan de mejoramiento para 2025 bajo una política que asume la inclusión como un asunto de derechos, equidad y valores éticos, alineándose con el enfoque de "Educación Para Todos" del Ministerio de Educación Nacional (MEN)
 
-**Tabla 3**
-*Resultado Histórico Índice de Inclusión IEMS*
-
-
 | Gestión | 2015 | 2019 | 2024 | Análisis | Plan de mejora |
 |---------|------|------|------|----------|---------------|
 | Gestión directiva | 2,84 | 3,24 | 3,36 | Presenta el puntaje más alto en 2024. Evidencia fortalecimiento del liderazgo institucional, mayor orientación estratégica hacia la inclusión y consolidación de políticas institucionales. La mejora sostenida indica compromiso directivo con procesos participativos, toma de decisiones incluyentes y generación de cultura institucional. | Objetivo: Consolidar la inclusión como eje transversal del PEI. Acción de mejora: Fortalecer políticas institucionales de inclusión con seguimiento periódico. |
@@ -15,13 +11,9 @@ En la Institución Educativa Mariscal Sucre, este proceso de seguimiento ha most
 | Gestión administrativa | 2,84 | 3,28 | 3,27 | Mantiene resultados altos estables. Se evidencia fortalecimiento en organización institucional, apoyo a procesos inclusivos y mejoramiento recursos y procedimientos administrativos. Sin embargo, el leve descenso frente a 2019 puede sugerir necesidad de revisar sostenibilidad, asignación de recursos y mecanismos de seguimiento. | Objetivos: Monitorear avances y tomar decisiones basadas en evidencia. Reducir barreras para el aprendizaje y la participación. Acciones de mejora: Diseñar sistema de seguimiento a indicadores de inclusión. Fortalecer accesibilidad física, tecnológica y comunicativa. |
 | Gestión comunitaria | 2,61 | 3,03 | 3,21 | Registra uno de los crecimientos más importantes. Refleja mayor participación de familias, articulación con la comunidad y fortalecimiento de redes de apoyo. No obstante, aún existen oportunidades para profundizar procesos de participación y corresponsabilidad comunitaria. | Objetivos: Fortalecer corresponsabilidad y cultura inclusiva. Mejorar atención integral a estudiantes. Acciones de mejora: Incrementar espacios de participación familiar y comunitaria. Crear redes de apoyo interinstitucional. |
 | **Total** | 2,71 | 3,17 | 3,27 | Los resultados del Índice de Inclusión evidencian una evolución positiva y sostenida de la institución entre 2015 y 2024. El puntaje global pasó de 2,71 en 2015 a 3,27 en 2024, lo que refleja avances importantes en la consolidación de prácticas inclusivas en las diferentes áreas de gestión institucional. La progresión muestra tres tendencias relevantes: Mejoramiento significativo entre 2015 y 2019, indicando procesos de transformación institucional iniciales efectivas. Continuidad del crecimiento entre 2019 y 2024, aunque con un ritmo más moderado. Mayor equilibrio entre las áreas de gestión, lo que sugiere una cultura institucional más articulada alrededor de la inclusión. | |
-: Resultado Histórico Índice de Inclusión IEMS {.responsive}
+: Resultado Histórico Índice de Inclusión IEMS {.responsive #tbl-inclusion-historico}
 
 ---
-
-**Tabla 4**
-*Clasificación Discapacidad según SIMAT 2026 IEMS*
-
 
 | TIPO DE DISCAPACIDAD | NUMERO DE USUARIOS |
 | --- | --- |
@@ -31,13 +23,9 @@ En la Institución Educativa Mariscal Sucre, este proceso de seguimiento ha most
 | PSICOSOCIAL MENTAL | 29 |
 | FISICA- MOVILIDADVISUAL BAJA VISION IRREVERSIBLE | 2 |
 | TOTAL | 151 |
-: Clasificación Discapacidad según SIMAT 2026 IEMS {.responsive}
+: Clasificación Discapacidad según SIMAT 2026 IEMS {.responsive #tbl-clasificacion-discapacidad}
 
 ---
-
-**Tabla 5**
-*Promoción Estudiantes Caracterizados 202*
-
 
 | Primer Apellido | Segundo Apellido | Nombres | Segundo Nombre | Discapacidad | PIAR | Informe Final | Promovido |
 |----------------|-----------------|---------|----------------|--------------|------|--------------|-----------|
@@ -174,5 +162,5 @@ En la Institución Educativa Mariscal Sucre, este proceso de seguimiento ha most
 | ZULUAGA | BUITRAGO | BRAYAN | JACOBO | DISCAPACIDAD INTELECTUAL | X | X | X |
 | ZULUAGA | GOMEZ | HELENA |  | DISCAPACIDAD PSICOSOCIAL (MENTAL) | X | X | X |
 | CARDONA | GALINDO | SANDRA | VIVIANA | DISCAPACIDAD MULTIPLE | X | X | X |
-: Promoción Estudiantes Caracterizados 2025 {.responsive}
+: Promoción Estudiantes Caracterizados 2025 {.responsive #tbl-promocion-estudiantes}
 

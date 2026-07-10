@@ -1,15 +1,12 @@
 # 📋 FICHA TÉCNICA: COMPONENTES PEDAGÓGICOS DEL CURRÍCULO (PEI)
 
-**Tabla 29**
-*Marco Operativo de los Componentes Pedagógicos*
-
 |Componente|Líneas de Desarrollo Pedagógico|Operacionalización Didáctica en el Aula (EAU)|Instrumento de Evaluación y Evidencia|Beneficios Institucionales|
 |---|---|---|---|---|
 |🔄 A. Modelos Pedagógicos Flexibles|• Diagnóstico de capacidades, ritmos y estilos.  • Diversificación de estrategias y diferenciación de contenidos.  • Tutorías personalizadas y plataformas virtuales adaptativas.|• Adecuación de módulos autoinstructivos.  • Implementación de didácticas GEEMPA en básica y planes PIAR para el 15.47% con discapacidad.|• Múltiples formatos en el SIEE (portafolios, quices, exposiciones).  • Registro del 100% de los PIAR.|• Maximiza el potencial individual.  • Disminuye el fracaso escolar.  • Fomenta la motivación intrínseca.|
 |📋 B. Aprendizaje Basado en Proyectos (ABP)|• Selección de desafíos del contexto local de Manizales.  • Trabajo interdisciplinar (ciencias, matemáticas, tecnología).  • Tránsito por 5 fases: Identificación, Investigación, Solución, Implementación y Sustentación.|• Proyectos semestrales obligatorios desarrollados cooperativamente en las mesas fijas de aula.  • Docente actúa como facilitador.|• Rúbricas analíticas por competencias (investigación, co-trabajo).  • Feria de Sustentación Pública.|• Desarrolla pensamiento crítico.  • Conecta la teoría con la práctica.  • Enseña gestión del tiempo.|
 |🧪 C. Integración de STEM|• Currículo transversal unificado.  • Uso de laboratorios equipados (robótica, impresión 3D).  • Talleres prácticos de ingeniería, algoritmos y software.  • Alianzas con expertos de la región.|• Clases integradas del Nodo de Ciencias y Tecnología.  • Tránsito formativo superior con el convenio "La Universidad en tu Colegio".|• Prototipos funcionales evaluados.  • Pruebas de suficiencia en lógica y pensamiento computacional.|• Desarrolla competencias siglo XXI.  • Prepara para campos de alta demanda.  • Estimula la curiosidad técnica.|
 |❤️ D. Enfoque Socioemocional|• Programas estructurados de Aprendizaje Socioemocional (SEL).  • Talleres de manejo del estrés, resiliencia y comunicación asertiva.  • Cultura escolar positiva basada en la mediación.|• Monitoreo diario en los tres niveles a través de la estrategia del "emociómetro".  • Dinámicas grupales integradas por Orientación Escolar.|• Reducción en las métricas de conflictos del observador estudiantil.  • Rúbricas cualitativas del ser en el boletín.|• Fortalece el bienestar psicológico.  • Mitiga disfunciones familiares del hogar.  • Crea una comunidad solidaria.|
-: {.responsive}
+: Marco Operativo de los Componentes Pedagógicos {.responsive #tbl-componentes-pedagogicos}
 
 2\. Protocolo de Ejecución Curricular y Transversalidad (EAU)
 

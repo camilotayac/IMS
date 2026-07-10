@@ -1,7 +1,4 @@
 # Servicios Complementarios
-**Tabla 40**
-*Servicios Complementarios*
-
 <div class="table-responsive">
 <table>
 <colgroup>
@@ -41,3 +38,4 @@
 </tbody>
 </table>
 </div>
+: Servicios Complementarios {.responsive #tbl-servicios-complementarios}

@@ -4,9 +4,6 @@ Propuesta del Sistema Institucional de Evaluación de los Estudiantes de la Inst
 
 El Sistema Institucional de Evaluación de los Estudiantes (SIEE) de la Institución Educativa Mariscal Sucre busca asegurar una evaluación integral y formativa que permita valorar el progreso de los estudiantes no solo en términos de su desempeño académico, sino también en su desarrollo personal, socioemocional y actitudinal. La evaluación se concibe como un proceso continuo y reflexivo, cuyo objetivo es guiar el aprendizaje y fomentar la mejora constante de los estudiantes.
 
-**Tabla 33**
-*Matriz Técnica del Sistema Institucional de Evaluación Escolar (SIEE)*
-
 |Capítulo Normativo|Componente Técnico y Criterios|Escala o Estrategia Operativa|Acciones de Seguimiento y Apoyo (EAU)|Mecanismos de Garantía e Informes|
 |---|---|---|---|---|
 |📋 Cap. I: Criterios de Evaluación y Promoción|• Criterios: Integralidad, formatividad, transparencia y coherencia.  • Promoción: Alcance de competencias básicas.|• Enfoque en el desarrollo del Saber y del Ser.  • Flexibilidad para el reingreso.|• Ofrecimiento de estrategias pedagógicas de nivelación ante estándares mínimos insatisfechos.|• Revisión de casos críticos en el Comité de Evaluación y Promoción.|
@@ -17,4 +14,4 @@ El Sistema Institucional de Evaluación de los Estudiantes (SIEE) de la Instituc
 |🛡️ Cap. VI: Garantía de Cumplimiento|• Blindaje legal e institucional de los procesos evaluativos establecidos.|• Capacitación docente situada sobre retroalimentación efectiva.|• Monitoreo y acompañamiento constante por parte del equipo directivo y coordinadores.|• Evaluación y auditoría anual del impacto del SIEE con participación comunitaria.|
 |📅 Cap. VII: Periodicidad de Informes|• Rendición de cuentas periódica del avance académico a las familias.|• Esquema trimestral (3 informes parciales y 1 informe final consolidado).|• Canales omnicanal de comunicación continua (plataformas virtuales y citas presenciales).|• Citaciones prioritarias a padres de estudiantes con alertas de reprobación.|
 |📝 Cap. VIII: Estructura de Informes|• Anatomía formal del boletín escolar entregado a los acudientes.|• Componente 1: Descripción cualitativa por competencias.  • Componente 2: Nota numérica (1.0 - 5.0).|• Componente 3: Recomendaciones pedagógicas específicas de mejora escritas por el docente.|• Firma digital del Rector y Coordinador para validación legal del documento.|
-: {.responsive}
+: Matriz Técnica del Sistema Institucional de Evaluación Escolar (SIEE) {.responsive #tbl-siee}

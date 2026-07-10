@@ -2,9 +2,6 @@
 
 El diseño curricular de la Institución Educativa Mariscal Sucre se fundamenta en su misión y visión, así como en el Modelo Pedagógico "Educar para Transformar". Este diseño busca ofrecer una formación integral que desarrolle competencias académicas, sociales, emocionales y tecnológicas en los estudiantes, preparándolos para enfrentar los desafíos del mundo actual. A continuación, se presenta el diseño curricular dividido en varios componentes clave.
 
-**Tabla 26**
-*Matriz Técnica del Diseño Curricular Integrado*
-
 |Componente Curricular|Ejes y Asignaturas Articuladas|Enfoque Pedagógico y Competencias|Estrategia de Aula y Flexibilidad (EAU)|Evaluación e Integración Comunitaria|
 |---|---|---|---|---|
 |🏢 1. Fundamentos y Contexto|• Alineación con Misión, Visión y Principios.  • Entorno social de Manizales.|• Inclusión y equidad.  • Respeto por la diversidad y desarrollo sostenible.|• Currículo flexible adaptado a realidades y dinámicas socioeconómicas.|• Monitoreo de necesidades mediante retroalimentación de la comunidad.|
@@ -12,10 +9,9 @@ El diseño curricular de la Institución Educativa Mariscal Sucre se fundamenta 
 |❤️ 3. Eje Socioemocional|• Educación en Valores, Educación Física y Salud, y Orientación.|• Competencias Socioemocionales: Autoconocimiento, autogestión, empatía y trabajo cooperativo.|• Metodologías activas (debates, simulaciones) y seguimiento diario con el "emociómetro".|• Evaluación formativa continua.  • Rúbricas analíticas de convivencia.|
 |💻 4. Eje Tecnológico|• Tecnología e Informática, Robótica y Programación.|• Competencias Tecnológicas: Pensamiento computacional, uso crítico de TIC y autonomía digital.|• Integración de tecnologías educativas (EdTech) y laboratorios prácticos en aula.|• Tránsito con "La Universidad en tu Colegio".  • Portafolio de proyectos.|
 |🕊️ 5. Eje de Formación Ciudadana|• Educación Cívica y Ética, y Educación Ambiental.|• Competencias Ciudadanas: Conciencia social/ambiental, inclusión y participación comunitaria.|• Educación experiencial, salidas de campo y articulación de las guías de la EAU con el PRAE.|• Proyectos de servicio social obligatorio.  • Alianzas con organizaciones locales.|
-: {.responsive}
+: Matriz Técnica del Diseño Curricular Integrado {.responsive #tbl-diseno-curricular}
 
-**Tabla 27**
-*Plan de Estudios de Preescolar, Básica Primaria, Secundaria y Media*
+<!-- Tabla 27: Plan de Estudios -->
 
 <div class="table-responsive">
 <table>
@@ -322,9 +318,7 @@ El diseño curricular de la Institución Educativa Mariscal Sucre se fundamenta 
 </tbody>
 </table>
 </div>
-
-**Tabla 28**
-*Áreas Transversales (Proyectos Pedagógicos Transversales)*
+: Plan de Estudios de Preescolar, Básica Primaria, Secundaria y Media {.responsive #tbl-plan-estudios}
 
 |ÁREAS TRANSVERSALES|BÁSICA PRIMARIA|BÁSICA SECUNDARIA|EDUCACIÓN MEDIA|
 |---|---|---|---|
@@ -333,4 +327,4 @@ El diseño curricular de la Institución Educativa Mariscal Sucre se fundamenta 
 |CONSTITUCIÓN, DEMOCRACIA Y DERECHOS HUMANOS|Se implementa a través del proyecto “Gobierno Escolar y Democracia” La institución se propone con este proyecto dar respuesta a algunas problemáticas de la población escolar, principalmente contribuir a la formación de buenos ciudadanos, con capacidad cívica, de liderazgo y de resolución de conflictos; capaces de convivir pacíficamente, adquirir conciencia democrática y participar activamente en el gobierno escolar, para transformar las costumbres políticas del país.|Se implementa a través del proyecto “Gobierno Escolar y Democracia” La institución se propone con este proyecto dar respuesta a algunas problemáticas de la población escolar, principalmente contribuir a la formación de buenos ciudadanos, con capacidad cívica, de liderazgo y de resolución de conflictos; capaces de convivir pacíficamente, adquirir conciencia democrática y participar activamente en el gobierno escolar, para transformar las costumbres políticas del país.|Se implementa a través del proyecto “Gobierno Escolar y Democracia” La institución se propone con este proyecto dar respuesta a algunas problemáticas de la población escolar, principalmente contribuir a la formación de buenos ciudadanos, con capacidad cívica, de liderazgo y de resolución de conflictos; capaces de convivir pacíficamente, adquirir conciencia democrática y participar activamente en el gobierno escolar, para transformar las costumbres políticas del país.|
 |USO CREATIVO DEL TIEMPO LIBRE|Se implementa a través del proyecto "aprovechamiento del tiempo libre”. Debido a la necesidad que tienen los niños de realizar actividades significativas en su tiempo libre, se lleva a cabo el presente proyecto, buscando desarrollar desde una concepción pedagógica la parte artística, lúdica, deportiva y cultural. Se busca permear los espacios y tiempos no escolares o escolarizados abriendo las puertas a la proyección e incidiendo en la transformación del entorno ya que, si queremos que el niño utilice bien su tiempo libre, tenemos que formarlo y educarlo para que haga de éste, un espacio que le proporcione elementos para su desarrollo integral, conduciéndolo a adquirir hábitos de vida saludables, que les permitan vislumbrar y construir un proyecto de vida.|Se implementa a través del proyecto "aprovechamiento del tiempo libre”. Se ha diseñado este proyecto para que los jóvenes desde el ámbito pedagógico y con acompañamiento desarrollen la parte artística, lúdica, deportiva y cultural. El propósito es ocupar a los estudiantes en actividades que generen hábitos de vida saludables y disminuir factores de riesgo (drogas, tabaquismo, alcoholismo, violencia y vandalismo y prostitución).|Se implementa a través del proyecto "aprovechamiento del tiempo libre”. Se ha diseñado este proyecto para que los jóvenes desde el ámbito pedagógico y con acompañamiento desarrollen la parte artística, lúdica, deportiva y cultural. El propósito es ocupar a los estudiantes en actividades que generen hábitos de vida saludables y disminuir factores de riesgo (drogas, tabaquismo, alcoholismo, violencia y vandalismo y prostitución).|
 |PREVENCIÓN Y ATENCIÓN DE DESASTRES|Se implementa a través del proyecto “Prevención y atención de desastres” El propósito es preservar la vida a través del diagnóstico de los factores de riesgo de cada sección, la definición de las rutas de evacuación, así como los sitios seguros de encuentro. Atender la necesidad de capacitación de Directivos, Docentes, Estudiantes, padres de familia y Empleados a fin de prepararse a nivel interno para afrontar las amenazas propias en el ámbito locativo o externo, sea natural o entrópico.|Se implementa a través del proyecto “Prevención y atención de desastres” El propósito es preservar la vida a través del diagnóstico de los factores de riesgo de cada sección, la definición de las rutas de evacuación, así como los sitios seguros de encuentro. Atender la necesidad de capacitación de Directivos, Docentes, Estudiantes, padres de familia y Empleados a fin de prepararse a nivel interno para afrontar las amenazas propias en el ámbito locativo o externo, sea natural o entrópico.|Se implementa a través del proyecto “Prevención y atención de desastres” El propósito es preservar la vida a través del diagnóstico de los factores de riesgo de cada sección, la definición de las rutas de evacuación, así como los sitios seguros de encuentro. Atender la necesidad de capacitación de Directivos, Docentes, Estudiantes, padres de familia y Empleados a fin de prepararse a nivel interno para afrontar las amenazas propias en el ámbito locativo o externo, sea natural o entrópico.|
-: {.responsive}
+: Áreas Transversales (Proyectos Pedagógicos Transversales) {.responsive #tbl-areas-transversales}

@@ -6,23 +6,17 @@
 
 La Institución Educativa Mariscal Sucre tiene como misión ofrecer una educación integral que fomente la equidad, la calidad y la diversidad, potenciando el pensamiento crítico, el desarrollo de competencias en áreas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas) y el fortalecimiento socioemocional. Mediante modelos pedagógicos flexibles, preparamos a nuestros estudiantes para enfrentar los desafíos del mundo actual con responsabilidad social, conciencia ambiental y compromiso con el desarrollo sostenible.
 
-**Tabla 11**
-*Matriz de Despliegue de la Misión Institucional*
-
 |Eje Estratégico de la Misión|Justificación y Enfoque Filosófico|Línea de Acción en el Plantel Educativo|Indicador / Evidencia en el PEI|
 |---|---|---|---|
 |👥 1. Equidad y Diversidad|• Asegura que toda la población (incluyendo el 15.47% con diagnósticos clínicos y estudiantes en extraedad) acceda a una educación de calidad, reduciendo brechas sociales y eliminando la exclusión.|• Aplicación de didácticas flexibles (GEEMPA y Caminar en Secundaria).  • Implementación de los modelos CLEI en la jornada nocturna.|• Plan de Ajustes Razonables (PIAR) ejecutado al 100%.  • Tasa de retención de estudiantes vulnerables.|
 |🧠 2. Pensamiento Crítico y Competencias STEM|• Prepara a niños, jóvenes y adultos para un entorno globalizado e innovador, donde el conocimiento científico y tecnológico es el motor del desarrollo económico.|• Fortalecimiento curricular en ciencia, tecnología, ingeniería y matemáticas.  • Convenios técnicos de "La Universidad en tu Colegio".|• Porcentaje de estudiantes matriculados en articulación técnica.  • Módulos didácticos actualizados con enfoque investigativo.|
 |❤️ 3. Fortalecimiento Socioemocional y Resiliencia|• Modela individuos empáticos y justos, capaces de superar entornos familiares disfuncionales, problemas de adicción o disciplina a través del autoconocimiento y el afecto.|• Uso de herramientas transversales (como el "emociómetro").  • Escuela de Familias enfocada en pautas de crianza y comunicación.|• Reducción en el índice de conflictos reportados ante el Comité de Convivencia.  • Registro de asistencia de acudientes.|
 |🌱 4. Responsabilidad Social y Conciencia Ambiental|• Desarrolla una ciudadanía activa, comprometida con el desarrollo sostenible, el reciclaje y la mitigación de riesgos críticos del entorno de Manizales (ruido y basuras).|• Ejecución del Proyecto Ambiental Escolar (PRAE) articulado con la gestión del riesgo municipal.  • Estrategias de aula basadas en la democracia.|• Simulacros institucionales evaluados con éxito.  • Proyectos de aula activos orientados a los ODS 4.|
-: {.responsive}
+: Matriz de Despliegue de la Misión Institucional {.responsive #tbl-despliegue-mision}
 
 **Visión**
 
 Ser una institución educativa reconocida por su innovación pedagógica, excelencia académica y formación integral, orientada al desarrollo de ciudadanos críticos, creativos y comprometidos con la sociedad. A través de la inclusión de las áreas STEM y el enfoque en el pensamiento computacional, aspiramos a formar líderes capaces de transformar positivamente su entorno, promoviendo un futuro sostenible y equitativo.
-
-**Tabla 12**
-*Matriz de Proyección Estratégica de la Visión Institucional (Horizonte 2025-2030)*
 
 |Eje de la Visión|Fundamento de Excelencia del Siglo XXI|Estrategia de Implementación en las Sedes|Evidencia de Cumplimiento / Meta Técnica|
 |---|---|---|---|
@@ -31,12 +25,9 @@ Ser una institución educativa reconocida por su innovación pedagógica, excele
 |🤝 3. Formación Integral|• Cohesionar el éxito académico con el crecimiento del ser, estructurando ciudadanos comprometidos con el tejido social, la ética y la democracia.|• Fortalecimiento del Gobierno Escolar y procesos de co-gobierno de aula.  • Talleres transversales en derechos humanos y valores.|• Disminución de incidentes de convivencia en las sedes Central, Minitas y Viveros.  • Proyectos de liderazgo estudiantil activos.|
 |💻 4. Áreas STEM y Pensamiento Computacional|• Desarrollar habilidades científicas, lógicas y creativas esenciales para la inserción exitosa en la economía global moderna y el sector productivo transformador.|• Alianzas estratégicas vigentes en la Media con el programa "La Universidad en tu Colegio".  • Proyectos escolares integrados de base científico-tecnológica.|• Cobertura total de articulación técnica en los grados 10° y 11°.  • Proyectos del área de tecnología aplicados al entorno urbano.|
 |🌍 5. Liderazgo y Transformación Social|• Forjar agentes de cambio con alta adaptabilidad que lideren soluciones frente a las vulnerabilidades del entorno, la sostenibilidad y la equidad.|• Territorialización del ODS 4 en el currículo.  • Proyectos Ambientales Escolares (PRAE) articulados con la gestión de residuos y el ruido en Manizales.|• Ejecución anual verificable de proyectos de impacto comunitario.  • Planes de contingencia y resiliencia institucional evaluados.|
-: {.responsive}
+: Matriz de Proyección Estratégica de la Visión Institucional {.responsive #tbl-proyeccion-vision}
 
 A continuación, se presenta la matriz técnica de soporte teleológico que integra y sistematiza el **Lema, los Principios, los Valores y las Creencias** de la **Institución Educativa Mariscal Sucre**. Esta estructura condensa la identidad corporativa y axiológica requerida para el componente estratégico del PEI:
-
-**Tabla 13**
-*Matriz Axiológica y de Soporte Teleológico: Lema, Principios, Valores y Creencias*
 
 |Elemento Teleológico|Componente Axiológico|Fundamentación Técnica y Pedagógica|Operacionalización en el Modelo Escuela Activa Urbana|
 |---|---|---|---|
@@ -58,7 +49,7 @@ A continuación, se presenta la matriz técnica de soporte teleológico que inte
 ||Ciudadanía Global|• La educación debe responder a retos macro-globales.|• Territorialización de las metas de la Agenda 2030 (ODS 4).|
 ||Ciencia como Motor|• La tecnología y ciencia preparan para el futuro laboral.|• Fortalecimiento de la Educación Media Académica y Técnica.|
 ||Soporte Socioemocional|• El bienestar afectivo es la base del éxito académico.|• Atención a disfunciones familiares mediante Escuela de Familias.|
-: {.responsive}
+: Matriz Axiológica y de Soporte Teleológico {.responsive #tbl-soporte-teleologico}
 
 ## 📋 FICHA TÉCNICA DE EJES TRANSVERSALES (PEI)
 
@@ -66,16 +57,13 @@ A continuación, se presenta la matriz técnica de soporte teleológico que inte
 
 La transversalidad en la institución educativa opera como el núcleo articulador que conecta el saber pedagógico con la realidad social, económica y cultural de las sedes Central (La Toscana), Sede C (John F. Kennedy) y Sede D (Ricardo Flórez). Su propósito es garantizar un currículo flexible, incluyente y con enfoque de derechos humanos, superando la fragmentación tradicional del conocimiento mediante las lógicas del Modelo Escuela Activa Urbana (EA).
 
-**Tabla 14**
-*Matriz Operativa de Transversalidad Curricular*
-
 |Eje Transversal|Enfoque Estratégico e Intencionalidad|Líneas de Desarrollo Pedagógico|Mecanismo de Operacionalización en el Aula (EAU)|Indicador de Impacto / Evidencia|
 |---|---|---|---|---|
 |🧬 1. Equidad de Género|• Fomentar una cultura de respeto, inclusión y no discriminación.  • Garantizar igualdad de oportunidades en el acceso a recursos.|• Conciencia crítica sobre los roles de género sociales.  • Participación equitativa en áreas STEM (Grados 10° y 11°).  • Proyectos interdisciplinarios y formación docente continua.|• Diseño de guías temáticas libres de sesgos y estereotipos.  • Equipos de co-gobierno escolar y mesas de aula paritarias.|• Tasas de matrícula femenina equilibradas en programas técnicos universitarios.  • Rúbricas curriculares con enfoque de género aplicadas.|
 |🕊️ 2. Educación para la Paz|• Desarrollar responsabilidad social y resolución pacífica de conflictos.  • Promover los derechos humanos en todas las áreas de enseñanza.|• Programas específicos en diálogo y respeto mutuo.  • Talleres prácticos sobre mediación escolar y empatía.  • Integración temática en ética, religión y ciencias sociales.|• Ejercicio activo de justicia restaurativa a través del Gobierno de Aula.  • Proyectos comunitarios conjuntos entre las tres sedes fusionadas.|• Reducción en el porcentaje de faltas graves en el Manual de Convivencia.  • Número de estudiantes formados y activos como mediadores de paz.|
 |🌱 3. Conciencia Ambiental|• Internalizar la sostenibilidad y el cuidado de los recursos naturales.  • Abordar las problemáticas locales frente al cambio climático.|• Integración curricular del cambio climático y la biodiversidad.  • Proyectos prácticos: huertos escolares, reciclaje y uso eficiente de agua/energía.  • Alianzas de apoyo técnico.|• Articulación obligatoria de las guías de aprendizaje con el Proyecto Ambiental Escolar (PRAE).  • Acciones puntuales de aula contra el ruido y la congestión en Manizales.|• Plan de gestión de residuos sólidos (basuras) implementado por sede.  • Registro de eventos institucionales de sensibilización ambiental ejecutados.|
 |💻 4. Tecnología e Innovación|• Usar las TIC de manera eficiente y crítica para mejorar la enseñanza.  • Personalizar el aprendizaje con enfoque de pensamiento computacional.|• Integración en el aula de plataformas digitales y software educativo.  • Competencias digitales para docentes (formación situada) y estudiantes.  • Programación y robótica.|• Incorporación de herramientas virtuales e interactividad dentro de los módulos EAU.  • Uso de datos educativos para ajustar guías al ritmo individual.|• Porcentaje de conectividad efectiva e interactividad pedagógica en aula.  • Proyectos tecnológicos aplicados presentados en convenios de educación superior.|
-: {.responsive}
+: Matriz Operativa de Transversalidad Curricular {.responsive #tbl-transversalidad-curricular}
 
 ## 📋 FICHA TÉCNICA: OBJETIVOS POR NIVELES Y METAS DE CALIDAD
 
@@ -95,9 +83,6 @@ Educación Media Académica (Grados 10° y 11° - Art. 30, Ley 115/94): Profundi
 
 Educación de Adultos (Jornada Nocturna - Art. 4, Decreto 3011 de 1997): Ofrecida a través de los Ciclos Lectivos Especiales Integrados (CLEI). Promueve la formación ciudadana, la autonomía personal, la nivelación académica y la capacitación laboral de la población adulta en contextos de flexibilidad curricular.
 
-**Tabla 15**
-*Matriz Operativa de Metas de Calidad Institucional*
-
 | **Meta de Calidad** | **Intencionalidad Estratégica del PEI** | **Enfoque en la Misión Mariscalista** | **Mecanismo de Aplicación en el Aula** |
 |----|----|----|----|
 | 📝 **1. Excelencia Académica** | • Garantizar un alto rendimiento en todas las áreas, reduciendo las brechas detectadas en Manizales en matemáticas e inglés. | • Desarrollo del pensamiento crítico y computacional. | • Evaluaciones formativas adaptadas al **SIEE** y planes de refuerzo trimestral. |
@@ -106,12 +91,9 @@ Educación de Adultos (Jornada Nocturna - Art. 4, Decreto 3011 de 1997): Ofrecid
 | 🚀 **4. Innovación Pedagógica** | • Perfeccionar metodologías que superen el paradigma tradicional de memoria. | • Modelos pedagógicos flexibles y aprendizaje del siglo XXI. | • Uso e innovación con las guías auto-instructivas del modelo **Escuela Activa Urbana**. |
 | 🤝 **5. Compromiso Comunitario** | • Fomentar el tejido social cooperativo en los barrios de influencia de las tres sedes. | • Solidaridad, ciudadanía activa y proyección del entorno. | • Articulación comunitaria de los proyectos de servicio social estudiantil obligatorio. |
 | ❤️ **6. Desarrollo Integral** | • Sanar disfunciones afectivas y mitigar problemas de adicción o disciplina desde la escuela. | • Crecimiento ético, social, emocional y académico del ser. | • Uso de la estrategia del "emociómetro" y talleres de la **Escuela de Familias**. |
-: {.responsive}
+: Matriz Operativa de Metas de Calidad Institucional {.responsive #tbl-metas-calidad}
 
 A continuación, se presenta la **Matriz Técnica de Órganos de Participación y Comités Institucionales**, estructurada bajo la normatividad legal colombiana (Ley 115 de 1994, Decreto 1860 de 1994 y normativa laboral vigente). Esta matriz organiza el funcionamiento del Gobierno Escolar y sus mesas de apoyo en las tres sedes de la **Institución Educativa Mariscal Sucre**:
-
-**Tabla 16**
-*Matriz del Gobierno Escolar y Comités de Apoyo*
 
 | **Categoría** | **Instancia de Participación** | **Composición Técnica (Contexto IE Mariscal Sucre)** | **Alcance, Funciones Clave y Normatividad** | **Operacionalización en el Modelo Escuela Activa Urbana (EAU)** |
 |----|----|----|----|----|
@@ -129,12 +111,9 @@ A continuación, se presenta la **Matriz Técnica de Órganos de Participación 
 |  | **6. Comité de Gestión de Riesgos** | Coordinador general de la institución, docentes líderes de brigada y personal administrativo. | Evalúa amenazas, elabora los mapas de riesgo institucional y planifica simulacros ante emergencias volcánicas o sismos. | Articula la topografía vulnerable de Manizales con las rutas de evacuación seguras de las sedes Kennedy, Ricardo Flórez y Central. |
 | **Comités Laborales** | **1. Comité de Convivencia Laboral (COCOLA)** | Dos representantes de los trabajadores docentes/administrativos y dos del empleador (Rectoría). | Instancia preventiva, mediadora y conciliadora ante riesgos psicosociales y conductas presuntas de acoso laboral (Resolución 652/2012). | Garantiza un clima institucional armónico y ético entre directivos y docentes nombrados en propiedad. |
 |  | **2. Comité Paritario de SST (COPASST)** | Representantes paritarios del personal docente/administrativo y delegados directivos. | Promueve, vigila y evalúa el Sistema de Gestión de la Seguridad y Salud en el Trabajo (**SG-SST**) (Resolución 2013/1986). |  |
-: {.responsive}
+: Matriz del Gobierno Escolar y Comités de Apoyo {.responsive #tbl-gobierno-escolar}
 
 ---
-
-**Tabla 17**
-*Mecanismos y Procesos de Comunicación y Control de Correspondencia*
 
 |ESTRATEGIA DE COMUNICACIÓN|FRECUENCIA|CRITERIOS DE UTILIZACIÓN|RESPONSABLES|
 |---|---|---|---|
@@ -150,12 +129,9 @@ A continuación, se presenta la **Matriz Técnica de Órganos de Participación 
 |Circulares de coordinación|Ocasionalmente|Agilizar procesos internos|Coordinadores|
 |Agenda de trabajo de todos los comités.|Según cronograma de cada comité|Desarrollo de proyectos|Docentes|
 |Circulares informativas generales a padres de familia|Bimestral|Mantener informada a la comunidad|Equipo directivo|
-: {.responsive}
+: Mecanismos y Procesos de Comunicación y Control de Correspondencia {.responsive #tbl-comunicacion-correspondencia}
 
 ---
-
-**Tabla 18**
-*Alianzas Estratégicas*
 
 |ENTIDAD|OBJETO DEL CONVENIO|PROYECTO O PROGRAMA|BENEFICIARIOS|ACTIVIDADES|LÍDER ENLACE|
 |---|---|---|---|---|---|
@@ -170,7 +146,7 @@ A continuación, se presenta la **Matriz Técnica de Órganos de Participación 
 |FUNDACIÓN TERPEL|Desarrollo de competencias ciudadanas respecto al cuidado del entorno propio y de la ciudad. Desarrollo del programa de JEE|Terpel enseña ciudad.|Estudiantes de bachillerato Estudiantes de primaria|Salidas pedagógicas de reconocimiento de los sitios más destacados de su ciudad en lo turístico, ambiental, cultural y de prevención y apoyo.|Docente del área de biología.|
 |SENA|Brindar formación técnica y en competencias laborales Capacitación en Electronica y Contabilidad Basica.|Integración y articulación|Educación Media|Programas en diferentes áreas|Coordinación – Rectoría y demás docentes. Alumnos de 10° y 11, los de CLEI V Y CLEI VI|
 |BRITISH COUNCIL|Brindar acompañamiento y cualificación docente en procesos de PC|Cubing lubs|CE en general|Talleres de cualificación docente en PC, algoritmos y planeación curricular|Rector Maestros masters|
-: {.responsive}
+: Alianzas Estratégicas {.responsive #tbl-alianzas-estrategicas}
 
 ## BUENAS PRÁCTICAS Y EXPERIENCIAS SIGNIFICATIVAS
 

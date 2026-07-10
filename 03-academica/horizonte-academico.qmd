@@ -4,9 +4,6 @@ El horizonte académico y diseño pedagógico de la Institución Educativa Maris
 
 A continuación, se presenta la **Matriz Técnica del Diseño Pedagógico** para la **Institución Educativa Mariscal Sucre**. Esta matriz estructura y operacionaliza cada componente curricular, vinculándolo directamente con las exigencias del entorno formal y las pautas metodológicas de la institución:
 
-**Tabla 19**
-*Matriz Técnica de Componentes del Diseño Pedagógico*
-
 |Componente del Diseño Pedagógico [1, 2, 3, 4, 5, 6, 7, 8]|Enfoque Teórico y Metodológico|Operacionalización Curricular (EAU)|Mecanismo de Evaluación / Evidencia|
 |---|---|---|---|
 |🧠 1. Formación Integral|• Equilibrio entre saber cognitivo y desarrollo del ser.  • Fomento de la autonomía y el pensamiento crítico.|• Diseño de guías que exigen la autorreflexión de los estudiantes.  • Estructuración de mesas de trabajo cooperativo de aula.|• Co-evaluación del desempeño socioemocional e interpersonal.  • Informes cualitativos de progreso del ser.|
@@ -19,12 +16,9 @@ A continuación, se presenta la **Matriz Técnica del Diseño Pedagógico** para
 |📊 8. Evaluación Integral y Formativa|• Concepción de la evaluación como un proceso permanente.  • Valoración cualitativa y cuantitativa balanceada.|• Inclusión de rúbricas, autoevaluación y evaluación por pares.  • Planes de nivelación constantes antes de los cierres de período.|• Enmiendas metodológicas aplicadas y visibles dentro del SIEE.  • Archivo de portafolios de progreso individual.|
 |👥 9. Inclusión y Equidad|• Diseño Universal para el Aprendizaje (DUA).  • Eliminación radical de barreras físicas o actitudinales.|• Ajustes curriculares mediante didácticas GEEMPA en básica.  • Diseño específico de los Planes Individuales de Ajustes Razonables.|• Auditoría semestral del 100% de los documentos PIAR ejecutados.  • Informes de adaptaciones físicas y curriculares.|
 |🏛️ 10. Vinculación y Proyección Social|• Aprendizaje solidario centrado en el bienestar colectivo.  • Construcción de una ciudadanía democrática y activa.|• Proyectos de servicio social estudiantil articulados con los barrios.  • Participación directa en las mesas locales de co-gobierno.|• Bitácoras evaluadas del servicio social de los grados 10° y 11°.  • Número de alianzas comunitarias activas por año lectivo.|
-: {.responsive}
+: Matriz Técnica de Componentes del Diseño Pedagógico {.responsive #tbl-componentes-diseno}
 
 El diseño pedagógico de la Institución Educativa Mariscal Sucre es un modelo integral, dinámico y adaptativo, que combina enfoques pedagógicos innovadores, el desarrollo de competencias STEM, el DUA como directriz a la hora de realizar la planeación de aula por parte del docente, la formación socioemocional y el compromiso con la sostenibilidad. Este diseño permite que los estudiantes adquieran las habilidades necesarias para enfrentar los desafíos del futuro con responsabilidad, creatividad y conciencia social.
-
-**Tabla 20**
-*Matriz Técnica de Implementación DUA*
 
 |Principio DUA|Dimensión Pedagógica|Acciones Clave en el Aula (Sede Central / Kennedy)|Aplicación en Rutas de Apoyo Especial (Salud/Inclusión)|Evidencia / Instrumento de Seguimiento|
 |---|---|---|---|---|
@@ -44,9 +38,6 @@ Optimización del Tiempo: Al planificar con DUA, el docente diseña una sola ses
 
 El **enfoque metodológico** de la Institución Educativa Mariscal Sucre se basa en la construcción de un aprendizaje significativo, centrado en el estudiante, con metodologías activas que promuevan la investigación, la creatividad y la reflexión crítica. Este enfoque tiene como objetivo formar estudiantes autónomos, responsables y capaces de aplicar los conocimientos en contextos reales. A continuación, se detallan los pilares fundamentales del enfoque metodológico de la institución:
 
-**Tabla 21**
-*Matriz Técnica de Enfoque Metodológico y Estrategias Didácticas*
-
 |Estrategia Metodológica|Sustento Pedagógico y Didáctico|Operacionalización en el Modelo Escuela Activa Urbana|Instrumento de Evaluación y Evidencia|
 |---|---|---|---|
 |📋 1. Aprendizaje Basado en Proyectos (ABP)|• Integración interdisciplinar orientada a problemas del mundo real.  • Enfoque transversal con el Nodo STEM.|• Diseño de proyectos de aula que vinculen ciencias, matemáticas y entorno social en las sedes Central, Minitas y Viveros.|• Rúbricas de evaluación de proyectos.  • Sustentaciones públicas institucionales por período.|
@@ -59,12 +50,9 @@ El **enfoque metodológico** de la Institución Educativa Mariscal Sucre se basa
 |⚙️ 8. Integración de Tecnología (EdTech)|• Uso de plataformas digitales y recursos virtuales como potenciadores.  • Fomento de la gestión autónoma del conocimiento.|• Incorporación de recursos en línea y repositorios educativos virtuales complementarios para contrarrestar la baja conectividad en hogares.|• Registros de interacción en entornos virtuales de aprendizaje.  • Módulos híbridos validados por área.|
 |🔄 9. Aula Invertida (Flipped Classroom)|• Transferencia de contenidos teóricos fuera del salón de clase.  • Optimización del tiempo presencial para la práctica y el debate.|• Aprovechamiento de la Jornada Única en básica secundaria y media para laboratorios prácticos tras lecturas previas orientadas en casa.|• Quices virtuales de control de lectura previa.  • Rúbricas de desempeño práctico y colaborativo en el aula.|
 |❤️ 10. Desarrollo Socioemocional|• Formación en empatía, resiliencia, autocontrol y manejo pacífico.  • Mitigación de disfunciones o conflictos familiares en los entornos.|• Monitoreo sistémico del "emociómetro".  • Proyectos de Aprendizaje Basado en Servicio Social articulados con las familias y barrios.|• Reducción en las métricas de conductas negativas del observador.  • Bitácoras de mediación escolar de aula.|
-: {.responsive}
+: Matriz Técnica de Enfoque Metodológico y Estrategias Didácticas {.responsive #tbl-enfoque-metodologico}
 
 El enfoque metodológico de la Institución Educativa Mariscal Sucre combina diversas estrategias activas y participativas que buscan no solo transmitir conocimientos, sino formar estudiantes críticos, creativos y autónomos. A través de metodologías como el **aprendizaje basado en proyectos**, el **aprendizaje colaborativo**, y el uso de **tecnologías educativas**, se garantiza que el proceso de enseñanza sea dinámico, significativo y adaptable a los retos de un mundo en constante transformación. Este enfoque permite a los estudiantes adquirir competencias no solo académicas, sino también sociales y emocionales, preparándolos para ser líderes en sus comunidades y ciudadanos responsables en una sociedad globalizada.
-
-**Tabla 22**
-*Matriz de Fundamentación Teórica y Epistemológica del PEI*
 
 |Principio Institucional|Autor y Referente Teórico|Postulado Epistemológico Central|Operacionalización en el Aula y SIEE (IE Mariscal Sucre)|
 |---|---|---|---|
@@ -76,7 +64,7 @@ El enfoque metodológico de la Institución Educativa Mariscal Sucre combina div
 |🧪 6. Competencias STEM|Howard Gardner  (Inteligencias Múltiples)|• La mente humana posee diversas formas de inteligencia independientes (lógico-matemática, espacial, naturalista) que deben estimularse de forma integral.|• Proyectos interdisciplinarios en el Nodo STEM que combinan arte y ciencia.  • Tránsito curricular avanzado con el programa de "La Universidad en tu Colegio".|
 |🚀 7. Innovación Pedagógica|Jean Piaget  (Constructivismo Cognitivo)|• El conocimiento se construye de forma activa mediante la interacción directa del sujeto con el objeto de estudio y su entorno, no por recepción pasiva.|• Estructuración de las Guías de Aprendizaje EAU en sus fases de Vivencia y Fundamentación.  • Uso metodológico del Aprendizaje Basado en Proyectos (ABP).|
 |🌱 8. Responsabilidad y Sostenibilidad|Lawrence Kohlberg  (Desarrollo Moral)|• El juicio moral evoluciona hacia un nivel posconvencional, donde las acciones se guían por principios autónomos y universales de justicia y bienestar común.|• Articulación obligatoria de los proyectos de servicio social con las metas de la Agenda 2030 (ODS 4).  • Acciones directas del PRAE contra el ruido y los residuos.|
-: {.responsive}
+: Matriz de Fundamentación Teórica y Epistemológica del PEI {.responsive #tbl-fundamentacion-teorica}
 
 Los **principios institucionales** de la Institución Educativa Mariscal Sucre están respaldados por una sólida base teórica que combina enfoques contemporáneos y clásicos en la educación. A través de estos referentes, la institución busca no solo transmitir conocimientos, sino también formar ciudadanos integrales, comprometidos con su comunidad, críticos y capaces de enfrentarse a los desafíos de un mundo cambiante.
 

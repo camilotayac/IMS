@@ -8,9 +8,6 @@
 
 La Gestión Comunitaria opera como el eje articulador que transita bidireccionalmente entre el entorno socioeconómico de la Comuna y el interior del plantel educativo. Fundamentado en el Humanismo, los principios de ciencia, trabajo y virtud, y el modelo de Escuela Activa Urbana (EAU), este componente concibe a la familia no solo como un soporte consultivo, sino como una instancia co-decisoria fundamental para conciliar el diálogo maestro-estudiante y reivindicar la dignidad humana dentro de un clima escolar seguro y respetuoso.
 
-**Tabla 41**
-*Matriz Operativa de Accesibilidad, Inclusión y Permanencia*
-
 |Proceso Estratégico|Enfoque Conceptual e Identidad|Líneas de Acción en las Sedes (Central, C y D)|Aliados Interinstitucionales y Soporte|Mecanismo de Control y Evidencia (PMI)|
 |---|---|---|---|---|
 |♿ 1. Accesibilidad y Vulnerabilidad|• Prácticas inclusivas orientadas a eliminar barreras para el aprendizaje de poblaciones vulnerables.|• Adaptación metodológica formal.  • Flexibilización de entornos y atención diferencial de derechos.|• Secretaría de Educación Municipal (SEM).  • Psicorientación institucional.  • Comisaría de Familia, Assbasalud, Programa PIC.|• Registro de casos con enfoque DUA.  • Informes semestrales de seguimiento clínico-pedagógico.|
@@ -18,7 +15,7 @@ La Gestión Comunitaria opera como el eje articulador que transita bidireccional
 |🧠 3. Necesidades y Expectativas|• Diagnóstico continuo de las demandas académicas, sociales y familiares.|• Gestión de proyectos complementarios: PAI, Tecnoacademia (SENA-INEM) e Inglés.|• Practicantes de Trabajo Social y Educación (U. de Caldas, Luis Amigó, U. de Manizales).  • Fiscalía (Futuro Colombia).|• Fichas técnicas de caracterización de la población estudiantil matriculada.|
 |🚀 4. Proyecto de Vida|• Construcción diaria de la visión ciudadana global del estudiante (Transición a 11°).|• Asignatura integrada obligatoria de Educación Religiosa, Ética y Valores Humanos.|• Docentes de área.  • Red Papaz.  • Alianza de "La Universidad en tu Colegio".|• Portafolio individual del proyecto de vida evaluado anualmente en el SIEE.|
 |🛡️ 5. Permanencia Institucional|• Construcción de relaciones estables y arraigo comunitario a largo plazo.|• Estudiantes: Formación en Jornada Única.  • Talento Humano: Estabilidad laboral de docentes y administrativos.|• Consejo Directivo.  • Fondo de Servicios Educativos.  • Cajas de compensación y comités COPASST.|• Tasas mínimas de deserción escolar.  • Desescolarización o retiro como última opción legal.|
-: {.responsive}
+: Matriz Operativa de Accesibilidad, Inclusión y Permanencia {.responsive #tbl-accesibilidad-inclusion}
 
 ### Estrategias Técnicas de Implementación (Plan de Acción de Inclusión)
 
@@ -28,9 +25,6 @@ Caracterización con Evidencias: Consolidación de una base de datos diagnóstic
 
 Empalme y Modelos Flexibles: Capacitación situada al cuerpo docente en el manejo de didácticas postconstructivistas (GEEMPA) y estrategias de nivelación de extraedad (Caminar en Secundaria o CLEI nocturnos) para flexibilizar las prácticas pedagógicas y evaluativas en el aula de clases.
 
-**Tabla 42**
-*Matriz de Proyección Comunitaria y Participación Ciudadana*
-
 |Dimensión Estratégica|Ejes y Áreas Académicas|Acciones y Mecanismos de Implementación|Aliados e Instancias Co-responsables|Evidencias y Soporte Normativo|
 |---|---|---|---|---|
 |🌱 1. Promoción del Proyecto de Vida|• Ética y Valores.  • Emprendimiento.  • Filosofía.|• Orientación profesional en grados 10° y 11°.  • Inclusión del proyecto de PSCC.  • Talleres y visitas a instituciones de educación técnica y superior.|• Psicoorientación Escolar.  • Docentes de área.  • "La Universidad en tu Colegio".|• Portafolio individual del proyecto de vida.  • Arquitectura del futuro del egresado.|
@@ -39,4 +33,4 @@ Empalme y Modelos Flexibles: Capacitación situada al cuerpo docente en el manej
 |🗃️ 4. Oferta de Servicios y Recursos|• Bienestar y extensión comunitaria.|• Cursos de profundización en Inglés (voluntarios).  • Uso regulado de la planta física para eventos de beneficio público.|• Rectoría / Auxiliar Administrativo.  • Entidades gubernamentales y JAL.|• Registro de convenios celebrados.  • Formulario oficial de préstamo de espacios.|
 |🤝 5. Convivencia y Mediación de Conflictos|• Convivencia Escolar.|• Seguimiento continuo de casos de convivencia.  • Talleres formativos remediales obligatorios para acudientes.|• Coordinación de Convivencia.  • Comité de Convivencia Escolar.  • Comités de Aula (EAU).|• Ruta de atención integral ejecutada.  • Actas de conciliación basadas en el Manual.|
 |🏛️ 6. Gobierno y Co-Gobernanza|• Participación democrática de estamentos.|• Familias: Presencia en Consejo Directivo, Convivencia y Comisiones del SIEE.  • Estudiantes: Rol central en Consejo Estudiantil y Personería.|• Jefatura de Ciencias Sociales.  • Representantes de padres electos.  • Líderes estudiantiles.|• Actas oficiales de Constitución del Gobierno Escolar.  • Elecciones del Gobierno de Aula.|
-: {.responsive}
+: Matriz de Proyección Comunitaria y Participación Ciudadana {.responsive #tbl-proyeccion-comunitaria}

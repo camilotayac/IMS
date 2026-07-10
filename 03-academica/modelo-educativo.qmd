@@ -2,9 +2,6 @@
 
 El modelo educativo de la Institución Educativa Mariscal Sucre se basa en un enfoque integral y flexible que busca el desarrollo de competencias académicas, sociales, emocionales y tecnológicas, con un fuerte compromiso hacia la equidad, la calidad y la innovación pedagógica. Este enfoque prepara a los estudiantes para ser ciudadanos críticos, creativos y responsables, capaces de enfrentar los desafíos del siglo XXI, especialmente en el contexto de una sociedad globalizada y tecnológicamente avanzada.
 
-**Tabla 24**
-*Matriz Técnica del Enfoque del Modelo Educativo*
-
 |Pilar del Enfoque|Justificación Pedagógica y Operativa|Despliegue en el Aula (Escuela Activa Urbana)|Indicador de Éxito / Evidencia del PEI|
 |---|---|---|---|
 |🧠 1. Formación Integral|• Equilibrio de las dimensiones social, ética, física y cognitiva.  • Desarrollo de autonomía y toma de decisiones responsables.|• Estructuración de guías que combinan la teoría con talleres prácticos y reflexivos del ser.|• Rúbricas cualitativas integradas en las planificaciones de área.|
@@ -17,12 +14,9 @@ El modelo educativo de la Institución Educativa Mariscal Sucre se basa en un en
 |💻 8. Tecnologías Educativas (EdTech)|• Enriquecimiento virtual del aprendizaje autónomo.  • Modelos híbridos (Blended Learning) adaptados a ritmos.|• Acceso guiado a recursos didácticos en línea y plataformas interactivas dentro de las sedes.|• Diagnósticos semestrales de apropiación digital y uso de TIC en docentes.|
 |📊 9. Evaluación Formativa|• Concepción de la evaluación como retroalimentación continua.  • Uso de rúbricas analíticas, portafolios y autoevaluación.|• Aplicación de los criterios flexibles de promoción contemplados en el SIEE institucional.|• Portafolios de progreso escolar individualizados por estudiante y ciclo.|
 |🏛️ 10. Vinculación Comunitaria|• Aprendizaje contextualizado articulado con las familias.  • Co-creación de soluciones con el entorno social y productivo.|• Desarrollo del programa itinerante de Escuela de Familias en las sedes Central, Minitas y Viveros.|• Registro del 80% de asistencia de los acudientes a los talleres formativos.|
-: {.responsive}
+: Matriz Técnica del Enfoque del Modelo Educativo {.responsive #tbl-enfoque-modelo}
 
 El **modelo educativo de la Institución Educativa Mariscal Sucre** es un enfoque integral que busca formar estudiantes capaces de enfrentar los desafíos del mundo actual con responsabilidad social, pensamiento crítico y creatividad. Mediante la **innovación pedagógica**, el **desarrollo de competencias STEM**, el **fortalecimiento socioemocional** y un compromiso con la **equidad** y la **inclusión**, la institución se propone preparar ciudadanos comprometidos con la transformación positiva de su entorno y con un futuro sostenible y justo.
-
-**Tabla 25**
-*Matriz del Modelo Pedagógico Sucre: "Educar para Transformar"*
 
 |Eje del Modelo Pedagógico|Enfoque de Transformación (Personal y Social)|Operacionalización Didáctica en el Aula (EAU)|Instrumento de Verificación / Evidencia en el PEI|
 |---|---|---|---|
@@ -35,4 +29,4 @@ El **modelo educativo de la Institución Educativa Mariscal Sucre** es un enfoqu
 |🏛️ 7. Ciudadanía Comprometida|• Participación activa en la vida democrática escolar, la tolerancia, la paz y el desarrollo sostenible.|• Elección, capacitación y ejercicio permanente de los comités estudiantiles del Gobierno de Aula.|• Actas de constitución de los co-gobiernos escolares y mediadores de paz activos.|
 |📊 8. Evaluación Formativa|• Concepción de la evaluación como un motor de retroalimentación continua del proceso formativo.|• Implementación de autoevaluación, coevaluación y planes de apoyo constantes antes del cierre del período.|• Rúbricas e instrumentos cualitativos validados dentro del texto oficial del SIEE.|
 |🏡 9. Vinculación Comunitaria|• Alianzas estratégicas con empresas, universidades y organizaciones gubernamentales de Manizales.|• Ejecución del programa itinerante de Escuela de Familias y tránsito avanzado con "La Universidad en tu Colegio".|• Registro del 80% de asistencia de los acudientes y convenios institucionales vigentes.|
-: {.responsive}
+: Matriz del Modelo Pedagógico Sucre: "Educar para Transformar" {.responsive #tbl-modelo-pedagogico}

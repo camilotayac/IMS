@@ -1,8 +1,5 @@
 # GESTIÓN DE LOS RECURSOS HUMANOS
 
-**Tabla 37**
-*Planta de Cargos*
-
 |CARGO|NÚMERO DE CARGOS|PERFIL|FUNCIONES|
 |---|---|---|---|
 |Rector|1|Formación Académica, Experiencia Laboral, Competencias Profesionales Gestionado. Liderazgo en educación ambiental. Coherencia entre los principios personales y los de la institución.|-Direccionar la institución educativa con su PEI.|
@@ -18,16 +15,13 @@
 |Bibliotecario||Formación Académica. Competencias Profesionales. Diligente y amable|-Elaborar el plan anual de actividades de su dependencia. -Elaborar el reglamento interno. -Clasificar, catalogar y ordenar el material bibliográfico. -Llevar el registro de utilización de los libros y responder por el material a su cargo. -Evaluar periódicamente las actividades planeadas. -Cumplir la jornada laboral.|
 |Auxiliar de Servicios Administrativos||Formación Académica. Competencias Profesionales. Diligente y amable|-Recibir, radicar y repartir oportunamente la correspondencia y demás documentos relacionados con la dependencia. -Asistir al jefe inmediato en labores de simple ejecución y en aquellas actividades propias del nivel asistencial. -Citar a reuniones del Consejo Directivo y elaborar las respectivas actas. -Colaborar con las actividades propias de la secretaría.|
 |Auxiliar de Servicios Generales|1|Responsabilidad Paciente y tolerante Diligente y activo|-Mantener aseadas todas las instalaciones de la sede en que labora. -Velar por la conservación y seguridad de los implementos puestos a su servicio. -Colaborar con la prevención y controles de emergencia. -Realizar actividades de portería y oficios varios. -Cumplir la jornada laboral legalmente establecida.|
-: {.responsive}
+: Planta de Cargos {.responsive #tbl-planta-cargos}
 
 ---
-
-**Tabla 38**
-*Matriz Técnica de Inducción y Plan de Cualificación del Talento Humano*
 
 |Población Objeto|Fase / Proceso Obligatorio|Temáticas y Acciones Clave de Inducción|Estrategias de Cualificación y Capacitación|Herramientas de Soporte y Evidencias|
 |---|---|---|---|---|
 |🧑‍🎓 1. Estudiantes de Nuevo Ingreso|Inducción y Acogida Escolar|• Reconocimiento de la planta física y dependencias de su respectiva sede.  • Presentación del cuerpo docente y directivo.  • Socialización del Manual de Convivencia y el Sistema Institucional de Evaluación (SIEE).|• Talleres lúdicos de adaptación dirigidos por directores de grupo.  • Jornadas de inducción en co-gobierno de aula.|• Manual de Convivencia digital.  • Acta de socialización del SIEE con firmas de estudiantes.|
 |👩‍🏫 2. Docentes y Directivos Docentes|Inducción Institucional y Pedagógica|• Reconocimiento de infraestructura y presentación ante la comunidad.  • Apropiación del PEI, Modelo Pedagógico y entrega del Manual de Funciones.  • Asignación académica, planes de área y herramientas de evaluación.|• Formación situada y co-diseño de guías integrando áreas STEM.  • Trabajo colaborativo en equipo intersedes.  • Aprovechamiento del talento humano interno de la institución.|• Paquete técnico pedagógico de la Escuela Activa Urbana (EAU).  • Evaluaciones de desempeño anuales (Decretos 1278 y 2277).|
 |💼 3. Personal Administrativo y de Servicios|Inducción Operativa y Funcional|• Reconocimiento físico de las sedes (Central, Minitas, Viveros).  • Presentación formal ante los diferentes estamentos.  • Lectura dirigida del PEI y entrega del Manual de Funciones y Procedimientos.|• Contratación con agentes externos para el manejo de herramientas EdTech.  • Asistencia a diplomados, seminarios y cursos de la Unidad de Calidad de la SEM.|• Manual de procedimientos archivado.  • Certificaciones de asistencia expedidas por la Secretaría de Educación.|
-: {.responsive}
+: Matriz Técnica de Inducción y Plan de Cualificación del Talento Humano {.responsive #tbl-induccion-talento}

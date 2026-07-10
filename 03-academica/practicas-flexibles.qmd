@@ -24,9 +24,6 @@ Su estructura operativa se incorpora de forma transversal en el Plan de Mejorami
 
 Estos proyectos conectan los contenidos teóricos con prácticas significativas, investigativas y de emprendimiento en su entorno, consolidando un escenario adaptativo que reconoce las capacidades singulares del educando y asegura su continuidad formativa gracias al compromiso ético del cuerpo docente y directivo de las diferentes sedes.
 
-**Tabla 30**
-*Matriz Técnica de Operacionalización de Caminar en Secundaria*
-
 |Dimensión Técnica|Componente Específico|Sustento Pedagógico y Enfoque de Derechos|Operacionalización en el Plantel Educativo (EAU)|Mecanismo de Seguimiento e Indicador (SIEE)|
 |---|---|---|---|---|
 |🧩 Condiciones Básicas de Desarrollo Humano|1. Flexibilidad|• Adaptación metodológica frente a la deserción.  • Alineación con los Estándares Básicos de Competencias del MEN.|• Currículo adaptativo con guías temáticas de la Escuela Activa Urbana (EAU).  • Conexión con los Planes de Mejoramiento (PMI).|• Tasa anual de retención y aprobación de estudiantes en extraedad.|
@@ -35,12 +32,9 @@ Estos proyectos conectan los contenidos teóricos con prácticas significativas,
 ||4. Significatividad|• Construcción de proyectos de vida con sentido.  • Aplicación práctica del conocimiento en el entorno.|• Rutas formativas basadas en el Aprendizaje Basado en Problemas reales de Manizales.|• Sustentación de la matriz del proyecto de vida individual del estudiante.|
 |⚙️ Modalidades de Organización Escolar|1. Presencial|• Desarrollo del programa dentro de la jornada escolar regular o contrajornada establecida.|• Asistencia diaria de los estudiantes adscritos en las sedes Central, Minitas o Viveros.|• Control diario de asistencia en la plataforma de gestión escolar del SIMAT.|
 ||2. Semipresencial|• Tutorías de acompañamiento directo complementadas con compromisos extraclase.|• Flexibilización de horarios para estudiantes con dinámicas laborales u obligaciones del hogar.|• Bitácora de seguimiento a tutorías y cumplimiento de entregables modulares.|
-: {.responsive}
+: Matriz Técnica de Operacionalización de Caminar en Secundaria {.responsive #tbl-caminar-secundaria}
 
 ---
-
-**Tabla 31**
-*Matriz de Apoyo Académico Especial, Pedagogía Hospitalaria y Colegio en Casa*
 
 |Dimensión Operativa|Marco Legal de Regulación (Decreto 1075/2015)|Población Objeto y Criterio de Inclusión|Estrategias Didácticas y Uso de Recursos (EAU / EdTech)|Fases del Proceso y Mecanismos del SIEE|
 |---|---|---|---|---|
@@ -48,12 +42,9 @@ Estos proyectos conectan los contenidos teóricos con prácticas significativas,
 |❤️ 2. Plan de Apoyo Emocional|• Art. 2.3.3.5.6.8.1.  • Enfoque de Competencias Ciudadanas.|• Estudiantes en aislamiento hospitalario o domiciliario y sus núcleos familiares.|• Integración de la herramienta del "emociómetro" adaptada al contexto del hogar.  • Talleres lúdicos de resiliencia y autocontrol.|• Socialización obligatoria del plan con los docentes de área.  • Evaluación periódica cualitativa de progresos socioemocionales.|
 |🛡️ 3. Colegio en Casa por Convivencia Escolar|• Manual de Convivencia Institucional.  • Ruta de Atención Integral.|• Estudiantes desescolarizados parcial o totalmente por faltas graves que afecten su integridad o la del plantel.|• Asignación de guías auto-instructivas temáticas.  • Tutorías mediadas por TIC y canales omnicanal para el envío de material.|• Regulación idéntica al modelo hospitalario.  • Monitoreo conjunto entre Coordinación de Convivencia y Orientación.|
 |🎓 4. Cualificación y Mitigación de Barreras|• Políticas nacionales de Educación Inclusiva.  • Enfoque de Derechos.|• Cuerpo docente, directivos y padres de familia de las tres sedes fusionadas.|• Talleres lúdicos de formación situada para maestros.  • Capacitación en comunicación asertiva y uso pedagógico de herramientas EdTech.|• Auditoría interna semestral de barreras actitudinales, comunicativas e infraestructurales eliminadas.|
-: {.responsive}
+: Matriz de Apoyo Académico Especial, Pedagogía Hospitalaria y Colegio en Casa {.responsive #tbl-apoyo-academico-especial}
 
 ---
-
-**Tabla 32**
-*Matriz Técnica de Articulación Institucional (Niveles Educativos y Sedes Fusionadas)*
 
 |Dimensión de Articulación|Instancia / Niveles Escolares|Procedencia / Población Objeto|Condiciones Desarticuladoras|Acciones Articuladoras Estratégicas|Frecuencia y Criterios de Utilización|
 |---|---|---|---|---|---|
@@ -66,4 +57,4 @@ Estos proyectos conectan los contenidos teóricos con prácticas significativas,
 ||3. Sede B y Sede C (Fusión Básica Primaria)|• Estudiantes de los ciclos de primaria asignados.|• Deficiencias en comunicación interpersonal.  • Nula interacción entre los alumnos.|• Trabajo metodológico conjunto en grupos paralelos (EAU).  • Jornadas unificadas de formación situacional docente.|• Bimestral: Evaluaciones diagnósticas.  • Algunas veces: Encuentros intersedes.|
 ||4. Sede B y Sede D (Gestión Primaria)|• Estudiantes de los ciclos de primaria asignados.|• Aislamiento físico.  • Barreras de actitud docente para compartir saberes.|• Coordinación de la flexibilización curricular y didácticas.  • Integración administrativa de las bases de datos (SIMAT).|• Bimestral / Planeada: Ajustes al PMI.  • Frecuente: Canales omnicanal virtuales.|
 ||5. Sede C y Sede D (Kennedy y Ricardo Flórez)|• Secciones infantiles de barrios periféricos.|• Pocas ocasiones de encuentro en el calendario escolar.  • Nula interacción estudiantil.|• Unificación de criterios de evaluación bajo el SIEE.  • Compartir bancos de material didáctico flexible (GEEMPA).|• Bimestral: Mesas técnicas de área.  • Siempre: Normatividad institucional.|
-: {.responsive}
+: Matriz Técnica de Articulación Institucional (Niveles Educativos y Sedes Fusionadas) {.responsive #tbl-articulacion-institucional}

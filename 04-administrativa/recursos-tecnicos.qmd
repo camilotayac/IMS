@@ -1,7 +1,4 @@
 # Gestión de los Recursos Técnicos
-**Tabla 39**
-*Gestión de los Recursos Técnicos*
-
 |TIPO DE RECURSOS|DESCRIPCIÓN DE RECURSOS|INDICADORES DE USO|
 |---|---|---|
 |Biblioteca|Textos de consulta, diccionarios enciclopédicos, textos escolares, obras literarias, obras de literatura infantil, revistas Material audiovisual CD. de música.|-Número de estudiantes que utilizan el servicio durante la jornada académica. - Número de usuarios que utilizan el servicio en jornada extraescolar. -Control de préstamo de los textos didácticos (de cada asignatura), bibliográfico, audiovisual y material didáctico a los docentes (a largo y mediano plazo). - Control de préstamo bibliográfico a los estudiantes. -Número de actividades y programas dirigidos por la bibliotecaria a los estudiantes. -Procedimiento y control para sancionar a usuarios que infrinjan el reglamento (Actas y formatos de procedimiento). -Registro diario de préstamo de material. -Formato de inventario actualizado. -Auditorías internas realizadas (Seguimiento y control).|
@@ -13,4 +10,4 @@
 |Audiovisuales|Portátiles Video bean Televisores DVD Grabadoras|-Actividades en las que se utilizan estos recursos (clases, actos culturales, socializaciones, reuniones) -Frecuencia con la que son utilizados (diario, semanal o mensual) -Estado de los equipos (bueno, regular, malo). -Existencia de manual de funcionamiento. -Control de préstamo.|
 |Material Deportivo|Implementos deportivos fungibles y no fungibles|-Existencia de control de manejo de préstamo. -Número de elementos en relación al número de estudiantes. -Estado de los elementos (bueno, regular, malo). -Control de inventario actualizado. -Frecuencia de uso del material (diario, semanal, mensual). -Uso de los implementos deportivos en tiempo extracurricular.|
 |Sala de materiales y recursos de apoyo pedagógico|Mapas Carteles y afiches Instrumentos musicales Trajes para danzas Juegos de mesa|-Espacio físico (suficiente, insuficiente, inadecuado, adecuado, iluminado, poco iluminado) -Actualización de inventario de los materiales ubicados en esta dependencia. -Clasificación de estos materiales. -Estado de estos materiales (bueno, regular, malo) -Frecuencia de uso de estos materiales (semanal, mensual). -Existencia de formato de control de préstamo de los materiales.|
-: {.responsive}
+: Gestión de los Recursos Técnicos {.responsive #tbl-recursos-tecnicos}

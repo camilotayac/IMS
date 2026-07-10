@@ -2,9 +2,6 @@
 
 La Institución Educativa Mariscal Sucre de Manizales es un establecimiento oficial, mixto y multijornada que unifica tres sedes bajo un único Proyecto Educativo Institucional (PEI) basado en el modelo de Escuela Activa, priorizando el trabajo colaborativo, la autonomía y la inclusión. La institución atiende a una población diversa y vulnerable, incluyendo un 23.34% de estudiantes con discapacidad, mediante modelos educativos flexibles como Caminar en Secundaria, CLEI y didácticas GEEMPA, buscando fomentar el desarrollo humano y la articulación con la educación superior a través del programa La Universidad en tu Colegio.
 
-**Tabla 1**
-*Matriz Técnica de Resignificación Estratégica del PEI*
-
 |Línea de Acción Estratégica|Importancia de la Resignificación|Objetivo Específico del Proceso|Justificación e Impacto (Misión Siglo XXI)|Evidencia / Meta Operativa en el Plantel|
 |---|---|---|---|---|
 |🚀 1. Transición a Jornada Única e Infraestructura|• Actúa como motor para revisar la gestión pedagógica, implementando la flexibilidad curricular y didácticas que maximicen el uso significativo del tiempo escolar ampliado.|• Reestructurar la malla horaria y los espacios físicos de aprendizaje de acuerdo con el avance del Plan Maestro de Educación y el FFIE.|• Responde a la necesidad de aumentar la cobertura con calidad, ofreciendo a los estudiantes de contextos vulnerables un entorno seguro y protector por más tiempo.|• Meta: Sostener la cobertura total de Jornada Única, consolidando el tránsito en básica secundaria y la media académica.|
@@ -16,9 +13,6 @@ La Institución Educativa Mariscal Sucre de Manizales es un establecimiento ofic
 : Matriz Técnica de Resignificación Estratégica del PEI {.responsive #tbl-resignificacion}
 
 ---
-
-**Tabla 2**
-*Matriz Técnica de Seguimiento y Evaluación de Resultados del PEI*
 
 |Criterio de Evaluación|Indicador Operacional|Método de Seguimiento y Herramientas|Frecuencia|Estamento Responsable|Articulación con el Modelo Flexible / SIEE|
 |---|---|---|---|---|---|

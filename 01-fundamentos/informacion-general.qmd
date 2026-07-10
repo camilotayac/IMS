@@ -1,6 +1,4 @@
 # Información General IEMS
-**Tabla 6**
-*Información General IEMS*
 
 <div class="table-responsive">
 <table>
@@ -154,3 +152,4 @@
 </tbody>
 </table>
 </div>
+: Información General IEMS {.responsive #tbl-informacion-general}

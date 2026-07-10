@@ -1,8 +1,5 @@
 # MARCO LEGAL
 
-**Tabla 7**
-*Matriz Técnica de Soporte Legal para la Educación Inclusiva*
-
 | **Componente Técnico** | **Norma / Instrumento** | **Enfoque / Aplicación Específica** | **Población Objetivo / Alcance** |
 |----|----|----|----|
 | **Definición Conceptual** | Enfoque de Derechos Humanos | Proceso permanente de reconocimiento y valoración de la diversidad. Aplica apoyos y ajustes razonables eliminando barreras del entorno. | Todo el universo de estudiantes. |
