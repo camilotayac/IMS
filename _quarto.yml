@@ -9,11 +9,16 @@ book:
   subtitle: "Resignificación PEI — Versión 3-2026"
   author: "Institución Educativa Mariscal Sucre"
   date: "Junio 2026"
+  lang: es
   cover-image: images/escudo.png
   favicon: images/logo.png
   page-navigation: true
   search: true
   downloads: [pdf, epub]
+  language:
+    crossref-fig-title: "Figura"
+    crossref-tbl-title: "Tabla"
+    crossref-eq-prefix: "Ecuación"
   sidebar:
     collapse: true
 
